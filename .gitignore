@@ -1,0 +1,52 @@
+## Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+## IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+## Eclipse
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+## VS Code
+.vscode/
+
+## OS Files
+.DS_Store
+Thumbs.db
+
+## Environment / Secrets
+.env
+.env.*
+*.env
+application-secrets.yml
+
+## Logs
+logs/
+*.log
+*.log.*
+
+## Terraform
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/.terraform.lock.hcl
+terraform/terraform.tfvars
+
+## Docker
+docker-compose.override.yml
